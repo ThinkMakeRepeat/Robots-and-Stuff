@@ -1,4 +1,4 @@
-// MOTOR DEFINITIONS -----------------------------------------------------------------------------
+// MOTOR DEFINITIONS  -----------------------------------------------------------------------------
 int i;
 
 int leftMotor = 9; // right throttle motor pin
@@ -9,7 +9,7 @@ int turnSpeed = 64;
 int minSpeed = 0;
 
 
-// BUTTON STEERING DEFINITIONS -----------------------------------------------------------------------------
+// BUTTON STEERING DEFINITIONS  -----------------------------------------------------------------------------
 
 // MOVE FORWARD ----------
 int forward = 2;
